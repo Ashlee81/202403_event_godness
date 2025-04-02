@@ -1,0 +1,126 @@
+{
+    "main": {
+      "text": "粉嫩禮物節",
+      "webLink": "https://media.etmall.com.tw/sp/27146/m/index.html",
+      "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F27146%2Fm%2Fapp.html&t=%E7%B2%89%E5%AB%A9%E7%A6%AE%E7%89%A9%E7%AF%80%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2",
+      "blank": true
+    },
+    "sub": [
+      {
+        "text": "名人推薦",
+        "webLink": "https://media.etmall.com.tw/sp/17190/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F17190%2Fm%2Fapp.html&t=%E5%90%8D%E4%BA%BA%E6%8E%A8%E8%96%A6%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9"
+      },
+      {
+        "text": "銀行專區",
+        "webLink": "https://media.etmall.com.tw/sp/27089/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F27089%2Fm%2Fapp.html&t=2024%2F2%E6%9C%88%E9%8A%80%E8%A1%8C%E7%B8%BD%E8%A6%BD%E9%A0%81%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "全站加碼",
+        "webLink": "https://media.etmall.com.tw/sp/23928/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F23928%2Fm%2Fapp.html&t=%E5%85%A8%E7%AB%99%E5%8A%A0%E7%A2%BC%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9"
+      }
+    ],
+    "depart": [
+      { 
+        "text": "美妝",
+        "webLink": "https://media.etmall.com.tw/sp/25131/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F25131%2Fm%2Fapp.html&t=%E8%B6%85%E7%B4%9A%E9%80%B1%E5%B9%B4%E6%85%B6%20%E7%BE%8E%E5%A6%9D%E6%9C%80%E9%AB%98%E5%9B%9E%E9%A5%8B75%25%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "保養",
+        "webLink": "https://media.etmall.com.tw/sp/24816/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F24816%2Fm%2Fapp.html&t=%E6%A3%AE%E7%BE%8E%E5%A6%8D%20%E9%80%B1%E5%B9%B4%E6%85%B6%20%E6%8A%98%E6%8A%B5%2B%E5%9B%9E%E9%A5%8B120%25%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9"
+      },
+      {
+        "text": "保健",
+        "webLink": "https://media.etmall.com.tw/sp/27083/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F27083%2Fm%2Fapp.html"
+      },
+      {
+        "text": "養生",
+        "webLink": "https://www.etmall.com.tw/gp/104783",
+        "mobileLink": "https://m.etmall.com.tw/gp/104783",
+        "appLink": "etmall://open?pgid=65&eid=104783"
+      },
+      {
+        "text": "電玩",
+        "webLink": "https://media.etmall.com.tw/sp/13058/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F13058%2Fm%2Fapp.html&t=%E9%81%8A%E6%88%B2%E9%99%AA%E4%BD%A0%E5%97%A8%E7%BF%BB%E5%A4%A9%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "3C",
+        "webLink": "https://media.etmall.com.tw/sp/27085/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F27085%2Fm%2Fapp.html&t=3C%E5%A5%BD%E5%BA%B7%E9%BE%8D%E6%8A%B5%E5%AE%B6%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "家電",
+        "webLink": "https://media.etmall.com.tw/sp/23150/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F23150%2Fm%2Fapp.html"
+      },
+      {
+        "text": "季節",
+        "webLink": "https://media.etmall.com.tw/sp/26143/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F26143%2Fm%2Fapp.html"
+      },
+      {
+        "text": "日用",
+        "webLink": "https://media.etmall.com.tw/sp/18927/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3a%2f%2fmedia.etmall.com.tw%2fsp%2f18927%2fm%2fapp.html&t=%e6%97%a5%e7%94%a8%e6%96%b0%e9%a2%a8%e6%9a%b4+%e9%9b%9911%e9%99%90%e6%99%82%e4%be%86%e8%a5%b2%7cETMall%e6%9d%b1%e6%a3%ae%e8%b3%bc%e7%89%a9"
+      },
+      {
+        "text": "休閒",
+        "webLink": "https://media.etmall.com.tw/sp/9400/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3a%2f%2fmedia.etmall.com.tw%2fsp%2f9400%2fm%2fapp.html"
+      },
+      {
+        "text": "美食",
+        "webLink": "https://www.etmall.com.tw/bs/165769",
+        "appLink": "etmall://open?pgid=54&sd=165769"
+      },
+      {
+        "text": "餐廚",
+        "webLink": "https://media.etmall.com.tw/sp/26948/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F26948%2Fm%2Fapp.html"
+      },
+      {
+        "text": "流行",
+        "webLink": "https://media.etmall.com.tw/sp/26768/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F26768%2Fm%2Fapp.html&t=%E8%BF%8E%E6%98%A5%E7%A9%BF%E6%90%AD%E5%A4%A7%E8%B3%9E%2412up%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "鞋包",
+        "webLink": "https://media.etmall.com.tw/sp/26913/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F26913%2Fm%2Fapp.html&t=1%2F29-2%2F29%20%E6%99%82%E5%B0%9A%E6%96%B0%E7%A6%A7%20%E8%BF%8E%E6%98%A53%E6%8A%98UP%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "寵物",
+        "webLink": "https://media.etmall.com.tw/sp/14801/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F14801%2Fm%2Fapp.html&t=%E8%90%8C%E5%AF%B5%E8%B3%80%E6%96%B0%E5%B9%B4%E4%B8%89%E9%87%8D%E9%80%81%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "傢寢",
+        "webLink": "https://media.etmall.com.tw/sp/26790/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F26790%2Fm%2Fapp.html&t=%E5%82%A2%E4%BF%B1x%E5%AF%A2%E9%A3%BE%EF%BD%9C%E8%BF%8E%E6%98%A5%E6%8F%9B%E6%96%B0%E5%82%A2%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "旅遊",
+        "webLink": "https://media.etmall.com.tw/sp/26724/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F26724%2Fm%2Fapp.html&t=%E9%A3%9B%E9%BE%8D%E8%BF%8E%E6%98%A5%20%E6%97%A5%E9%9F%93%E7%8E%A9%E8%B5%B7%E4%BE%86%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      },
+      {
+        "text": "熱銷",
+        "webLink": "https://media.etmall.com.tw/sp/22829/m/index.html",
+        "appLink": "etmall://open?pgid=44&tb=0&url=https%3A%2F%2Fmedia.etmall.com.tw%2Fsp%2F22829%2Fm%2Fapp.html&t=%E5%85%A8%E7%90%83%E8%B3%BC%7C%E6%B5%B7%E5%A4%96%E7%86%B1%E9%8A%B7%E6%A6%9C%E5%96%AE%7C%E6%9D%B1%E6%A3%AE%E5%95%86%E5%9F%8E%7C%E8%B7%A8%E5%A2%83%E9%9B%BB%E5%95%86%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2%7CETMall%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E7%B6%B2"
+      }
+    ],
+    "bottom": [
+      { "text": "分會場" },
+      {
+        "text": "主會場"
+      },
+      { "text": "相關活動" }
+    ]
+  }
+  
